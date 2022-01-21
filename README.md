@@ -13,7 +13,7 @@ Python client for the [kubernetes](http://kubernetes.io/) API.
 
 From source:
 
-```
+```python
 git clone --recursive https://github.com/kubernetes-client/python.git
 cd python
 python setup.py install
